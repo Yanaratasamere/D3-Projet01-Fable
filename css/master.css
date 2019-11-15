@@ -1,0 +1,13 @@
+body{
+  background: #425963
+}
+article{
+
+  max-width: 840px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+img{
+width: 100%;
+}

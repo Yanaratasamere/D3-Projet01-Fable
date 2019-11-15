@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline|Modak|PT+Sans+Narrow&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bitter&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Yeon+Sung&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+
+h1{
+  font-family: fantasy;
+  font-size: 4em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#fable01 h2{
+  font-family: Yeon;
+  font-size: 6em
+}
+#fable02 h2{
+  font-family: Lobster;
+  font-size: 6em
+}
+
+#fable03 h2{
+font-family:Abril;
+font-size: 6em
+}
+
+
+p{
+font-family: Bitter;
+}
